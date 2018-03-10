@@ -5,9 +5,10 @@
   "description": "Dynamic content in SweetAlert2, the React way",
   "main": "dist/sweetalert2-react-content.umd.js",
   "module": "src/sweetalert2-react-content.js",
+  "types": "src/sweetalert2-react-content.d.ts",
   "files": [
     "dist/**/*",
-    "src/**/*.js",
+    "src/**/*.{js,d.ts}",
     "CHANGELOG.md"
   ],
   "scripts": {
