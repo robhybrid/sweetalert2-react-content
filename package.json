@@ -62,7 +62,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "semantic-release": "^15.0.0",
-    "sweetalert2": "^7.18.0",
+    "sweetalert2": "7.26.2",
     "tslint": "^5.9.1",
     "typescript": "^2.7.2",
     "zenflow-build-js-lib": "^3.0.0",
