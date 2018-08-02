@@ -86,4 +86,5 @@ describe('integration', () => {
     MySwal.clickConfirm()
     await swal
   })
+  // TODO: Add test for update method
 })
